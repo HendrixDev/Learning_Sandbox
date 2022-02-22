@@ -4,6 +4,7 @@ C:\Users\m374l\source\repos\Learning_Sandbox\Recursion\bin\Debug\net6.0\Recursio
 C:\Users\m374l\source\repos\Learning_Sandbox\Recursion\bin\Debug\net6.0\Recursion.dll
 C:\Users\m374l\source\repos\Learning_Sandbox\Recursion\bin\Debug\net6.0\ref\Recursion.dll
 C:\Users\m374l\source\repos\Learning_Sandbox\Recursion\bin\Debug\net6.0\Recursion.pdb
+C:\Users\m374l\source\repos\Learning_Sandbox\Recursion\obj\Debug\net6.0\Recursion.csproj.AssemblyReference.cache
 C:\Users\m374l\source\repos\Learning_Sandbox\Recursion\obj\Debug\net6.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\m374l\source\repos\Learning_Sandbox\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfoInputs.cache
 C:\Users\m374l\source\repos\Learning_Sandbox\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfo.cs
