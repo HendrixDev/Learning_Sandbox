@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84394a98-38c3-45ab-ba3f-3bb2f65be26f": {
+      "ProjectGuid": "84394a98-38c3-45ab-ba3f-3bb2f65be26f",
+      "DisplayName": "OverloadingOperators",
+      "ColorIndex": 0
+    },
+    "7edc30db-0dfe-4180-bebe-7b76356c84d9": {
+      "ProjectGuid": "7edc30db-0dfe-4180-bebe-7b76356c84d9",
+      "DisplayName": "AdvancedConcepts",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
