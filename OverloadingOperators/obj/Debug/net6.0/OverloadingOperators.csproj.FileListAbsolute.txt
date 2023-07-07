@@ -12,3 +12,4 @@ C:\Users\m374l\source\repos\Learning_Sandbox\OverloadingOperators\obj\Debug\net6
 C:\Users\m374l\source\repos\Learning_Sandbox\OverloadingOperators\obj\Debug\net6.0\ref\OverloadingOperators.dll
 C:\Users\m374l\source\repos\Learning_Sandbox\OverloadingOperators\obj\Debug\net6.0\OverloadingOperators.pdb
 C:\Users\m374l\source\repos\Learning_Sandbox\OverloadingOperators\obj\Debug\net6.0\OverloadingOperators.genruntimeconfig.cache
+C:\Users\m374l\source\repos\Learning_Sandbox\OverloadingOperators\obj\Debug\net6.0\OverloadingOperators.csproj.AssemblyReference.cache

@@ -10,7 +10,22 @@
       "ProjectGuid": "7edc30db-0dfe-4180-bebe-7b76356c84d9",
       "DisplayName": "AdvancedConcepts",
       "ColorIndex": 1
+    },
+    "ace44108-7e9c-4bc5-822e-53d0bffaea8c": {
+      "ProjectGuid": "ace44108-7e9c-4bc5-822e-53d0bffaea8c",
+      "DisplayName": "Recursion",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "60ba8e42-3321-4796-abb9-736085879487": {
+      "ProjectGuid": "60ba8e42-3321-4796-abb9-736085879487",
+      "DisplayName": "OverloadingOperators",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }
