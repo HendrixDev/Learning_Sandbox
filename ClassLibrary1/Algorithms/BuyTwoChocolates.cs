@@ -2,7 +2,6 @@
 {
     public class BuyTwoChocolates
     {
-
         //Explanation: https://leetcode.com/problems/buy-two-chocolates/
         public int BuyChoco(int[] prices, int money)
         {
