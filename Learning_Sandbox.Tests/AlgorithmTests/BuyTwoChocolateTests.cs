@@ -1,10 +1,4 @@
-﻿using ClassLibrary1.Algorithms;
-using Learning.Algorithms;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Learning.Algorithms;
 
 namespace Learning_Sandbox.Tests.AlgorithmTests
 {
